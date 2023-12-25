@@ -1,0 +1,1 @@
+*{box-sizing:border-box}.item{width:200px;height:200px;margin:50px auto;padding-top:75px;background:#ccc;text-align:center;color:#fff;font-size:3em}.container{grid-row:span 2;grid-column:span 2}@media (min-width: 1024px){.about{min-height:80vh;display:flex;align-items:center}}
